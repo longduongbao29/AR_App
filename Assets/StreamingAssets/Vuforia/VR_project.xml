@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gap-cua-bo-gio" size="1.000000 0.750000" />
+    <ImageTarget name="nem-con" size="1.000000 0.786561" />
+    <ImageTarget name="o-an-quan" size="1.000000 0.714286" />
+    <ImageTarget name="chi-chi-chanh-chanh" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
